@@ -1,5 +1,5 @@
-Lendo valores do teclado
+Enumeradores (enum)
 
-{0}  índice zero
+Permite criarmos um tipo personalizado com valores pré-definidos pelo programador
 
-{1}  índice 1
+
